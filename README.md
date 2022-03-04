@@ -1,4 +1,3 @@
-**Hi there!**
 #I am a Programmer.
 - 👋 Hi, I’m @SamiulIslamm
 - 👀 I’m interested in ...
