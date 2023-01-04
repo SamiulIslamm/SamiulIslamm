@@ -4,8 +4,8 @@
 
 
 I'm a Human.
-
-Skills: C / C++/ JAVA / Python / Golang / SQL / PHP / RDBMS / JS / HTML / CSS
+'''C
+Skills: C / C++/ JAVA / Python / Golang / SQL / PHP / RDBMS / JS / HTML / CSS '''
 
 - 🔭 I’m currently working on SICSE Projects 
 - 🌱 I’m currently learning R Programming 
